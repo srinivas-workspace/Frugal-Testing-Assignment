@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Pytest cache
+.pytest_cache/
+
+# Screenshots
+screenshots/
+
+# Test reports
+report.html
+report_*.html
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
